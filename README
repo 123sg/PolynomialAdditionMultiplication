@@ -1,0 +1,15 @@
+Instructions to run this program: Run the MainClass.java file.
+1. To run under Windows command prompt or the Mac Terminal, first change into the folder
+containing all of this project's java files. Type cd and the folder name.
+2. Create class files for all java files. Type:
+  javac MainClass.java
+  javac Polynomial.java
+  javac Node.java
+3. Type java MainClass to run the program. To modify the polynomial you would like to add, modify the numbers 
+in the arrays P1 and P2 in the code in the MainClass.java file.
+
+About this program:
+This program adds two given polynomials and multiplies two given polynomials.  For polynomials, the coefficients
+are entered in the MainClass class in ascending order of their exponents.  For instance: 1, 2, 8 represents 
+1^2 + 2^1 + 8^0.  I will eventually add file I/O to the MainClass class, where one can enter polynomial coefficients
+by command line through a textfile of polynomial pairs, and the solutions would be outputed in another textfile. Enjoy!
