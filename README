@@ -5,7 +5,7 @@ containing all of this project's java files. Type cd and the folder name.
   javac MainClass.java
   javac Polynomial.java
   javac Node.java
-3. Type java MainClass to run the program. To modify the polynomial you would like to add, modify the numbers 
+3. Type java MainClass to run the program. To modify the polynomial you would like to add/multiply, modify the numbers 
 in the arrays P1 and P2 in the code in the MainClass.java file.
 
 About this program:
